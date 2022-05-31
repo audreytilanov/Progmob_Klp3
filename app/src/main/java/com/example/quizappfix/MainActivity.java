@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements Pahlawan_RVInterf
     }
 
     private void changeActivityToKuis(){
-        Intent intent = new Intent(this, KuisActivity.class);
+        Intent intent = new Intent(this, QuizActivity.class);
 
         startActivity(intent);
     }

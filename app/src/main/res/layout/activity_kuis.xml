@@ -96,7 +96,7 @@
         android:background="#FFFFFF"
         android:backgroundTint="@color/white"
         android:color="#fff"
-        android:text="Button"
+        android:text="Next"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

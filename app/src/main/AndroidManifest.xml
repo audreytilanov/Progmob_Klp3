@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QuizAppFix">
         <activity
-            android:name=".KuisActivity"
+            android:name=".QuizActivity"
             android:exported="false" />
         <activity
             android:name=".DetailPahlawan"
