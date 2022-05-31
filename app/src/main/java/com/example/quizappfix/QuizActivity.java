@@ -63,7 +63,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     void loadPertanyaan(){
-        if(pertanyaanIndex == 3){
+        if(pertanyaanIndex == 5){
             selesai();
             return;
         }
