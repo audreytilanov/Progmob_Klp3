@@ -6,20 +6,21 @@ class ModelPahlawan {
     int image;
 
     public ModelPahlawan(String pahlawanEnsiklopedia, int image, String detailPahlawan) {
-        this.pahlawanEnsiklopedia = pahlawanEnsiklopedia;
-        this.image = image;
         this.detailPahlawan = detailPahlawan;
-    }
-
-    public String getPahlawanEnsiklopedia() {
-        return pahlawanEnsiklopedia;
-    }
-
-    public int getImage() {
-        return image;
+        this.image = image;
+        this.pahlawanEnsiklopedia = pahlawanEnsiklopedia;
+        
     }
 
     public String getDetailPahlawan() {
         return detailPahlawan;
+    }
+    
+    public int getImage() {
+        return image;
+    }
+
+    public String getPahlawanEnsiklopedia() {
+        return pahlawanEnsiklopedia;
     }
 }
