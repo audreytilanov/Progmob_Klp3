@@ -3,20 +3,30 @@ package com.example.quizappfix;
 public class SoalKuis {
 
     public static String kuis[] = {
-        "Siapakah presiden pertama indonesia?",
-        "Siapakah wakil presiden pertama indonesia?",
-        "Siapakah pelopor kebangkitan wanita nusantara?"
+            "Siapakah pelopor kebangkitan wanita nusantara?",
+            "Siapakah wakil presiden pertama indonesia?",
+            "Siapakah presiden pertama indonesia?",
+            "Siapakah perwakilan pendiri ASEAN dari Indonesia?",
+            "Siapakah salah satu tokoh perumusan Pancasila?",
+            "Siapakah pendiri Taman Siswa?",
     };
 
     public static String pilihan[][] = {
-            {"Untung Suropati", "Soekarno", "Jendral Sudirman"},
+            {"Sutan Syahrir", "Soekarno", "RA. Kartini"},
             {"Moh. Hatta", "Cut Nyak Dien", "Diponegoro"},
-            {"Sutan Syahrir", "Soekarno", "RA. Kartini"}
+            {"Untung Suropati", "Soekarno", "Jendral Sudirman"},
+            {"Adam Malik", "Ahmad Soebardjo", "Soeratjo"},
+            {"Hamengku Buwono", "Soeharto", "Soepomo"},
+            {"Dewi Sartika", "Ki Hajar Dewantara", "Ngurah Rai"},
     };
 
     public static String jawaban[] = {
-        "Soekarno",
-        "Moh. Hatta",
-        "RA. Kartini"
+            "RA. Kartini",
+            "Moh. Hatta",
+            "Soekarno",
+            "Adam Malik",
+            "Soepomo",
+            "Ki Hajar Dewantara",
+
     };
 }
