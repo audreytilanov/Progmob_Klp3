@@ -12,14 +12,14 @@ public class DetailPahlawan extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail_pahlawan);
-
-        String nama = getIntent().getStringExtra("NAMA");
-        int foto = getIntent().getIntExtra("FOTO", 0);
+        
         String detailPahlawan = getIntent().getStringExtra("DESKRIPSI");
-
-        TextView detailNama = findViewById(R.id.detailNama);
-        ImageView detailFoto = findViewById(R.id.detailFoto);
+        int foto = getIntent().getIntExtra("FOTO", 0);
+        String nama = getIntent().getStringExtra("NAMA");
+        
         TextView deskripsi = findViewById(R.id.detaildaripahlawan);
+        ImageView detailFoto = findViewById(R.id.detailFoto);
+        TextView detailNama = findViewById(R.id.detailNama);
 
         detailNama.setText(nama);
         detailFoto.setImageResource(foto);
