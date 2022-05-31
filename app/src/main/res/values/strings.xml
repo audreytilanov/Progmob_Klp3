@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Edukasi Pahlawan</string>
+
+    <string-array name="judul_ensiklopedia">
+        <item>Untung Suropati</item>
+        <item>Cut Nyak Dien</item>
+        <item>Jendral Sudirman</item>
+        <item>Pangeran Diponegoro</item>
+        <item>Sutan Syahrir</item>
+        <item>Soekarno</item>
+        <item>Mohammad Hatta</item>
+        <item>Raden Ajeng Kartini</item>
+        <item>Tuanku Imam Bonjol</item>
+        <item>Ki Hajar Dewantara</item>
+        <item>Sultan Hasanuddin</item>
+    </string-array>
+
+    <string-array name="detail_pahlawan">
+        <item>Untung Surapati (Bahasa Jawa: Untung Surapati) (terlahir Surawiraaji, lahir di Bali, 1660 – meninggal dunia di Bangil.</item>
+        <item>Cut Nyak Dhien (ejaan lama: Tjoet Nja Dhien, Lampadang, Kerajaan Aceh, 1848 – Sumedang, Jawa Barat, 6 November 1908</item>
+        <item>Jenderal Besar TNI (Anumerta) Raden Soedirman (EYD: Sudirman; 24 Januari 1916 – 29 Januari 1950[a]) adalah seorang perwira tinggi Indonesia.</item>
+        <item>Diponegoro lahir di Yogyakarta pada tanggal 11 November 1785 dari ibu yang merupakan seorang selir (garwa ampeyan), bernama R.A. Mangkarawati.</item>
+        <item>Sutan Sjahrir (variasi penulisan nama: Soetan Sjahrir, Sutan Syahrir, 5 Maret 1909 – 9 April 1966) adalah seorang intelektual, perintis, dan revolusioner kemerdekaan Indonesia.</item>
+        <item>Dr. (H.C.) Ir. H. Soekarno (ER, EYD: Sukarno, nama lahir: Koesno Sosrodihardjo; 6 Juni 1901 – 21 Juni 1970)adalah Presiden pertama Republik Indonesia yang menjabat pada periode 1945–1967.</item>
+        <item>Dr. (H.C.) Drs. H. Mohammad Hatta (12 Agustus 1902 – 14 Maret 1980) adalah negarawan dan ekonom Indonesia yang menjabat sebagai Wakil Presiden Indonesia pertama.</item>
+        <item>Raden Adjeng Kartini (21 April 1879 – 17 September 1904) atau sebenarnya lebih tepat disebut Raden Ayu Kartini adalah seorang tokoh Jawa dan Pahlawan Nasional Indonesia.</item>
+        <item>Nama asli dari Tuanku Imam Bonjol adalah Muhammad Syahab, yang lahir di Bonjol pada 1 Januari 1772. Dia merupakan putra dari pasangan Bayanuddin Syahab (ayah) dan Hamatun (ibu).</item>
+        <item>Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar.</item>
+        <item>Sultan Hasanuddin (Dijuluki Ayam Jantan dari Timur oleh Belanda) (12 Januari 1631 – 12 Juni 1670) adalah Sultan Gowa ke-16 dan pahlawan nasional Indonesia yang terlahir dengan nama Muhammad Bakir</item>
+    </string-array>
+</resources>
